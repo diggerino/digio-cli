@@ -1,0 +1,28 @@
+{
+  "name": "digio-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+
+  ],
+  "author": "Tri Nguyen",
+  "contributors": [
+    {
+      "name": "Tri Nguyen",
+      "email": "mail@trimn.net",
+      "url": "http://tmn.io/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmn/digio-cli/issues"
+  },
+  "homepage": "https://github.com/tmn/digio-cli",
+  "bin": {
+    "digio-cli": "lib/main.js"
+  }
+}
